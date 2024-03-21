@@ -1,0 +1,22 @@
+{
+  "name": "gas_testing_library_setup",
+  "version": "1.0.0",
+  "description": "Google AppScript testing library setup project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/losslessring/gas_testing_library_setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/losslessring/gas_testing_library_setup/issues"
+  },
+  "homepage": "https://github.com/losslessring/gas_testing_library_setup#readme",
+  "dependencies": {
+    "clasp": "^1.0.0"
+  }
+}
